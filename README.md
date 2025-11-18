@@ -90,4 +90,4 @@ If you're interested in contributing, piloting, or collaborating: Aetheris Consu
 
 Tagline
 
-“Healthcare where no one falls through the cracks — and every decision has a witness.”
+“Healthcare where no one falls through the cracks — and every decision has a team of experts to collaborate.”
